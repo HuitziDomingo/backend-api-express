@@ -40,8 +40,6 @@
 
 ## Mantente en contacto
 
-- Author - [Huitzitzili Domingo Leon Nieves](https://huitzi.xyz)
+- Autor - [Huitzitzili Domingo Leon Nieves](https://huitzi.xyz)
 
-## Licensia
 
-Nest is [MIT licensed](LICENSE).
